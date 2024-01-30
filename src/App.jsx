@@ -33,6 +33,7 @@ export default function App() {
       </section>
       <section
         className="padding"
+        
       >
         <CustomerReviews />
       </section>
@@ -42,7 +43,7 @@ export default function App() {
         <Subscribe />
       </section>
       <section
-        className="padding"
+        className="padding w-full bg-black"
       >
         <Footer />
       </section>
